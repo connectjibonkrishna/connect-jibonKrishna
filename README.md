@@ -1,16 +1,46 @@
-# React + Vite
+# 🌐 Personal Portfolio - [Live Site 🚀](https://connectjibonkrishna.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **personal portfolio website**, a modern and responsive web application built to showcase my projects, skills, and professional journey as a **Web Developer**.  
+This portfolio reflects my creativity, learning progress, and passion for building beautiful digital experiences.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
 
-## React Compiler
+| Category       | Technologies                                                                                                                                 |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend**   | [React](https://react.dev/), [React Router](https://reactrouter.com/), [Vite](https://vitejs.dev/), [Tailwind CSS](https://tailwindcss.com/) |
+| **UI & Icons** | [Lucide React](https://lucide.dev/), [React Hot Toast](https://react-hot-toast.com/)                                                         |
+| **Deployment** | [Vercel](https://vercel.com/)                                                                                                                |
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚡ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🏠 **Responsive Design** — Looks great on all devices
+- ⚡ **Smooth Navigation** — Fast and seamless routing with React Router
+- 💬 **Interactive Notifications** — Clean toast alerts powered by React Hot Toast
+- 🎨 **Modern UI** — Elegant design using Tailwind CSS utility-first styling
+- 🚀 **Fast Build & Deployment** — Developed with Vite and deployed on Vercel
+
+---
+
+## 🧠 What I Learned
+
+- Creating and structuring React components
+- Building smooth navigation with React Router
+- Implementing responsive layouts using Tailwind CSS
+- Adding interactive user feedback with React Hot Toast
+- Deploying React applications seamlessly via Vercel
+
+---
+
+## 💌 Connect With Me
+
+- 🌐 **Website:** [connectjibonkrishna.vercel.app](https://connectjibonkrishna.vercel.app/)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/connectjibonkrishna/](#)
+- 💼 **Facebook:** [https://www.facebook.com/connectjibonkrishna](#)
+
+---
+
+### ⭐ If you like this project, don’t forget to give it a star on GitHub!
