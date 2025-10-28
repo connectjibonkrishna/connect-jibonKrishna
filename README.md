@@ -38,7 +38,7 @@ This portfolio reflects my creativity, learning progress, and passion for buildi
 ## 💌 Connect With Me
 
 - 🌐 **Website:** [connectjibonkrishna.vercel.app](https://connectjibonkrishna.vercel.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/connectjibonkrishna](https://www.facebook.com/connectjibonkrishna)
+- 💼 **LinkedIn:** [linkedin.com/in/connectjibonkrishna](https://www.linkedin.com/in/connectjibonkrishna/)
 - 💼 **Facebook:** [facebook.com/connectjibonkrishna](https://www.facebook.com/connectjibonkrishna)
 
 ---
